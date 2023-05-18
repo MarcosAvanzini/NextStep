@@ -45,7 +45,7 @@
 
 | Data | Sprints |
 | ------ | ------ |
-|    03/04/2023    |[Sprint 1](https://github.com/VictorNogueiraSCCP/NextStep/tree/Sprint-1)|
+|    03/04/2023    |[Sprint 1]|[(https://github.com/MarcosAvanzini/NextStep/tree/Sprint-1)]
 |    24/04/2023    |[Sprint 2]|
 |    15/05/2023    |[Sprint 3]|
 |    05/06/2023    |[Sprint 4]|                    
