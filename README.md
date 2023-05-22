@@ -1,53 +1,33 @@
 
-<img src="https://github.com/VictorNogueiraSCCP/NextStep/blob/main/imagem/NextStepLogo.svg" width="1000" height="600"/>
+## Sprint 1
+Identificar as principais cadeias produtivas da RMVale, especificando quais são os principais itens exportados e importados, juntamente de um mapa da região que está sendo analisada, indicando os principias pólos geradores de demanda e produção por cadeia produtiva. 
 
+## Metas atingidas na sprint-1
 
-## Time de Desenvolvimento
+* Criaçao do GitHub
 
-* Lucas dos Santos (Product Owner)
+* Idendificação e pequisa dos principais itens exportados e importados
 
-* Marcos Vinicius Restani Avanzini (Scrum Master)
+* Idendificação dos principais polos de demanda 
 
-* Victor Lopes Teixeira Nogueira (Dev Team)
+* Análise SWOT dos municípios 
 
-* Thayssa Andrade Santos (Dev Team)
+* Desenvolver Deshboard 
 
-* Hellen de Sousa Santos Carmo (Dev Team)
+* Criação do Kanban spritnt-1
 
-* Ana Carolina Fabricio Ribeiro (Dev team)
+## Metas para sprint-2
 
-* Ana Julia do Coito Brandão (Dev team)
+* Aprimorar GitHub
 
-### Focal Point: Projeto Integrador
-* Cliente: Marcus Vinicius do Nascimento
-* Prof: Jose Jaetis Rosario
+* Pesquisar Companias e produtos da RMVale
 
-## Índice
-* O que é a RMVale
-* O que é o Projeto
-* Benefícios
+* Criação de Power BI com base de dados que relacional 
 
-## O que é o RMVale?
-* A Região Metropolitana do Vale do Paraíba e Litoral Norte (RMVALE-LN) foi criada pela Lei Complementar 1.166, de 9 de janeiro de 2012, como um instrumento do Estado que permite a união de governo, prefeituras, iniciativa privada e sociedade civil organizada para trabalhar na solução de problemas que os municípios têm em comum: segurança, moradia, mobilidade, saneamento, saúde, habitação, educação, entre outros.
+* Criaçao da documentação das atividades desenvolvidas na sprint-1
 
-## O que é o projeto
-* Mapear e avaliar cadeias produtivas da RMVALE por meio de coleta, tratamento e análise de dados de importação e exportação.
+* Criação da documentação das atividades da sprint-2
 
-## Benefícios 
-* Identificação das principais cadeias produtivas da RMVALE
-* Identificação dos principais produtos importados e exportados
-* Mapa regional indicando os principais pólos geradores de demanda e produção por cadeia produtiva
-* Aplicativo em Power Apps que permita resumir os dados de exportação e importação de cada município
-* Dashboard que permita avaliar a evolução das importações e exportações da RMVALE
-* Análise e diagnóstico de potencial das cadeias produtivas em função da análise dos dados dispostos no dashboard
-
-## Cronograma de Entregas
-
-| Data | Sprints |
-| ------ | ------ |
-|    03/04/2023    |[Sprint 1](https://github.com/VictorNogueiraSCCP/NextStep/tree/Sprint-1)|
-|    24/04/2023    |[Sprint 2]|
-|    15/05/2023    |[Sprint 3]|
-|    05/06/2023    |[Sprint 4]|                    
-|    13/06/2023    |[Feira de Soluções]|
-|    14/06/2023    |[Feira de Soluções]|
+* Aprimorar análise SWOT
+ 
+* Criação do Kanban sprint-2-
