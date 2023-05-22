@@ -4,7 +4,19 @@ Pesquisar Companias e produtos da RMVale, especificando e detalhando cada produt
 
 ## Metas atindas na sprint-2 
 
-Aprimorar GitHub da empresa 
+* Aprimorar GitHub da empresa
 
+* Desenvolver Kanban da sprint-2
+
+* Ajuastar a análise SWOT
+
+* Criação dos documentos feitos nas sprints 1 e 2
+
+* Criação do Power Bi com base de dados relacional 
+
+* Pesquisar empresas e produtos da RMVale
+
+
+## Metas para sprint-3
 
 
