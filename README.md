@@ -20,16 +20,7 @@ Pesquisar Companias e produtos da RMVale, especificando e detalhando cada produt
 ## Metas para sprint-3
 
 *Criar dashboard que permita avaliar a evol das cadeias produtivas
-
-*Pesquisar os elos da cadeia produtiva
-
-* Melhorar estrutura de dados relacional do Power BI
-
-* Definir elos da cadeia produtiva pelo SH4
-
-*Agendar visita na  Nestlé
-
-* Criar documentação das atividades desenvolvidas na sprint 2
+*Pesquisar elos da cadeia produtiva
 
 
 
