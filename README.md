@@ -19,8 +19,9 @@ Pesquisar Companias e produtos da RMVale, especificando e detalhando cada produt
 
 ## Metas para sprint-3
 
-*Criar dashboard que permita avaliar a evol das cadeias produtivas
-*Pesquisar elos da cadeia produtiva
+* Desenvolver dashboard que permita avaliar a evolução das cadeias produtivas
+
+* Pesquisar os elos da cadeia produtiva
 
 
 
