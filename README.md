@@ -8,7 +8,7 @@ Pesquisar Companias e produtos da RMVale, especificando e detalhando cada produt
 
 * Desenvolver Kanban da sprint-2
 
-* Ajuastar a análise SWOT
+* Ajustar a analise SWOT
 
 * Criação dos documentos feitos nas sprints 1 e 2
 
@@ -25,7 +25,7 @@ Pesquisar Companias e produtos da RMVale, especificando e detalhando cada produt
 
 * Melhorar estrutura dos dados relacional do Power BI
 
-* DEfinir elos das cadeia produtiva pelos SH4
+* Definir os elos da cadeia produtiva pelo SH4
 
 * Marcar visita para Nestlé
 
