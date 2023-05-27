@@ -23,6 +23,12 @@ Pesquisar Companias e produtos da RMVale, especificando e detalhando cada produt
 
 * Pesquisar os elos da cadeia produtiva
 
+* Melhorar estrutura dos dados relacional do Power BI
+
+* DEfinir elos das cadeia produtiva pelos SH4
+
+* Marcar visita para Nestlé
+
 
 
 
