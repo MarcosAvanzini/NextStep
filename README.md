@@ -15,5 +15,5 @@ Definir uma cadeia produtiva de um produto e definir os elos da cadeia
 Em 1904 A Nestlé começa a vender chocolate pela primeira vez.
 A Nestlé esta presente em 191 países no mundo.
 A fábrica da Nestlé em Caçapava foi construída em 1971.
-A Nestlé em Caçapava produz cerca de 12 mil toneladas de chocolate por ano 
+A Nestlé em Caçapava produz cerca de 120 mil toneladas de chocolate por ano.
 
