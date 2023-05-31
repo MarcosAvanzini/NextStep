@@ -9,7 +9,9 @@ Definir uma cadeia produtiva de um produto e definir os elos da cadeia
 * Visita na Nestlé
 
 ## Metas para Sprint 4
-
+* Ajustar Analise SWOT
+* Preparação para a Feira de Soluções
+* Adicionar imagens ao slide
 
 ## Nestlé
 Em 1904 A Nestlé começa a vender chocolate pela primeira vez.
