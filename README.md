@@ -47,6 +47,5 @@
 |    03/04/2023    |[Sprint 1](https://github.com/MarcosAvanzini/NextStep/tree/Sprint-1)|
 |    24/04/2023    |[Sprint 2](https://github.com/MarcosAvanzini/NextStep/tree/Sprint-2)|
 |    29/05/2023    |[Sprint 3](https://github.com/MarcosAvanzini/NextStep/tree/Sprint-3)|
-|    05/06/2023    |[Sprint 4](https://github.com/MarcosAvanzini/NextStep/tree/Sprint-4)|                    
-|    13/06/2023    |[Feira de Soluções]|
+|    12/06/2023    |[Sprint 4](https://github.com/MarcosAvanzini/NextStep/tree/Sprint-4)|                    
 |    14/06/2023    |[Feira de Soluções]|
