@@ -12,11 +12,9 @@
 
 * Marcos Vinicius Restani Avanzini (Scrum Master)
 
-* Victor Lopes Teixeira Nogueira (Dev Team)
-
 * Thayssa Andrade Santos (Dev Team)
-
-
+ 
+* Victor Lopes Teixeira Nogueira (Dev Team)
 
 ### Focal Point: Projeto Integrador
 * Cliente: Marcus Vinicius do Nascimento
