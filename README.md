@@ -23,7 +23,7 @@ Identificar as principais cadeias produtivas da RMVale, especificando quais são
 <img src="https://github.com/MarcosAvanzini/NextStep/blob/main/Imagens/Sprint.svg" width="1920" height="1080"/>
 
 
-## Metas para [Sprint-2](https://github.com/MarcosAvanzini/NextStep/tree/Sprint-1)
+## Metas para [Sprint-2](https://github.com/MarcosAvanzini/NextStep/tree/Sprint-2)
 
 * Aprimorar GitHub
 
