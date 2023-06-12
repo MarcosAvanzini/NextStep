@@ -15,6 +15,8 @@ Pesquisar Companias e produtos da RMVale, especificando e detalhando cada produt
 * Criação do Power Bi com base de dados relacional 
 
 * Pesquisar empresas e produtos da RMVale
+## 5W2H
+<img src="https://github.com/MarcosAvanzini/NextStep/blob/main/Imagens/Sprint2.svg" width="1920" height="1080"/>
 
 
 ## Metas para sprint-3
