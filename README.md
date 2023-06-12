@@ -2,19 +2,19 @@
 
 
 ## Time de Desenvolvimento
-* Ana Carolina Fabricio Ribeiro (Dev team)
+* Ana Carolina Fabricio Ribeiro (Dev team) [Linkedin](https://www.linkedin.com/in/ana-carolina-fabr%C3%ADcio-ribeiro-976154207/)
 
-* Ana Julia do Coito Brandão (Dev team)
+* Ana Julia do Coito Brandão (Dev team) [Linkedin](https://www.linkedin.com/in/ana-j%C3%BAlia-couto-brand%C3%A3o-60a78b20b/)
 
-* Hellen de Sousa Santos Carmo (Dev Team)
+* Hellen de Sousa Santos Carmo (Dev Team) [Linkedin](https://www.linkedin.com/in/hellen-carmo-26717b27b/)
 
-* Lucas dos Santos (Product Owner)
+* Lucas dos Santos (Product Owner) [Linkedin](https://www.linkedin.com/in/lucas-santos-26093664/)
 
-* Marcos Vinicius Restani Avanzini (Scrum Master)
+* Marcos Vinicius Restani Avanzini (Scrum Master)  [Linkedin](https://www.linkedin.com/in/marcos-avanzini-7544331b6/)
 
-* Thayssa Andrade Santos (Dev Team)
+* Thayssa Andrade Santos (Dev Team) [Linkedin](https://www.linkedin.com/in/thayssa-andrade-531a20200/)
  
-* Victor Lopes Teixeira Nogueira (Dev Team)
+* Victor Lopes Teixeira Nogueira (Dev Team) [Linkedin](
 
 ### Focal Point: Projeto Integrador
 * Cliente: Marcus Vinicius do Nascimento
