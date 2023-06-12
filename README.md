@@ -6,6 +6,8 @@
 
 * Ana Julia do Coito Brandão (Dev team)
 
+* Hellen de Sousa Santos Carmo (Dev Team)
+
 * Lucas dos Santos (Product Owner)
 
 * Marcos Vinicius Restani Avanzini (Scrum Master)
@@ -14,7 +16,7 @@
 
 * Thayssa Andrade Santos (Dev Team)
 
-* Hellen de Sousa Santos Carmo (Dev Team)
+
 
 ### Focal Point: Projeto Integrador
 * Cliente: Marcus Vinicius do Nascimento
