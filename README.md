@@ -2,6 +2,9 @@
 
 
 ## Time de Desenvolvimento
+* Ana Carolina Fabricio Ribeiro (Dev team)
+
+* Ana Julia do Coito Brandão (Dev team)
 
 * Lucas dos Santos (Product Owner)
 
@@ -12,10 +15,6 @@
 * Thayssa Andrade Santos (Dev Team)
 
 * Hellen de Sousa Santos Carmo (Dev Team)
-
-* Ana Carolina Fabricio Ribeiro (Dev team)
-
-* Ana Julia do Coito Brandão (Dev team)
 
 ### Focal Point: Projeto Integrador
 * Cliente: Marcus Vinicius do Nascimento
