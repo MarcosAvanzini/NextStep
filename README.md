@@ -1,5 +1,5 @@
 
-<img src="https://github.com/MarcosAvanzini/NextStep/blob/main/Imagens/Sprint1.svg" width="1000" height="500"/>
+<img src="https://github.com/MarcosAvanzini/NextStep/blob/main/Imagens/Pontos 1.svg" width="1000" height="500"/>
 
 
 ## Sprint 1
