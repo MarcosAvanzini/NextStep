@@ -32,7 +32,7 @@
 * Mapear e avaliar cadeias produtivas da RMVALE por meio de coleta, tratamento e análise de dados de importação e exportação.
 
 ## NextStep Consulting
-A empresa de consultoria Nextstep Consulting oferece serviços de consultoria SEO voltada para projetos maduros que precisem de auxílio externo. Eles projetam e acompanham o desempenho do seu time dentro da proposta de expansão do seu negócio nas buscas. Além disso, eles oferecem alinhamento de metas, análises, insights e sugestões e acompanhamentos de sacadas baseadas em dados.
+A empresa de consultoria Nextstep Consulting oferece serviços de consultoria voltada para projetos maduros que precisem de auxílio externo. Eles projetam e acompanham o desempenho do seu time dentro da proposta de expansão do seu negócio nas buscas. Além disso, eles oferecem alinhamento de metas, análises, insights e sugestões e acompanhamentos de sacadas baseadas em dados.
 
 ## Missão
 * Ser reconhecida como a empresa de consultoria mais confiável e eficiente em ajudar empresas a dar o próximo passo em sua jornada de crescimento.
