@@ -1,7 +1,8 @@
+<img src="https://github.com/MarcosAvanzini/NextStep/blob/main/Imagens/Sprint1.svg" width="1000" height="500"/>
 ## Sprint 3
 Definir uma cadeia produtiva de um produto e definir os elos da cadeia
 
-## Metas atingidas na sprint 3
+## Metas atingidas na Sprint 3
 * Desenvolver um dashboard que pemite avaliar a evoluçao das cadeia
 * Pesquisa dos elos da cadeia
 * Melhorar estrutura dos dados relacional do Power BI
@@ -11,7 +12,7 @@ Definir uma cadeia produtiva de um produto e definir os elos da cadeia
 <img src="https://github.com/MarcosAvanzini/NextStep/blob/main/Imagens/Sprint3.svg" width="1920" height="1080"/>
 
 
-## Metas para Sprint 4
+## Metas para [Sprint 4](https://github.com/MarcosAvanzini/NextStep/tree/Sprint-4)
 * Ajustar Analise SWOT
 * Preparação para a Feira de Soluções
 * Adicionar imagens ao slide
