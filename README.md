@@ -1,4 +1,5 @@
 <img src="https://github.com/MarcosAvanzini/NextStep/blob/main/Imagens/Pontos 3.svg" width="1000" height="500"/>
+
 ## Sprint 3
 Definir uma cadeia produtiva de um produto e definir os elos da cadeia
 
