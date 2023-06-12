@@ -17,13 +17,13 @@ Identificar as principais cadeias produtivas da RMVale, especificando quais são
 
 * Desenvolver Deshboard 
 
-* Criação do Kanban spritnt-1
+* Criação do Kanban Sprint 1
 
 ## 5W2H
 <img src="https://github.com/MarcosAvanzini/NextStep/blob/main/Imagens/Sprint.svg" width="1920" height="1080"/>
 
 
-## Metas para sprint-2
+## Metas para [Sprint-2](https://github.com/MarcosAvanzini/NextStep/tree/Sprint-1)
 
 * Aprimorar GitHub
 
@@ -31,10 +31,11 @@ Identificar as principais cadeias produtivas da RMVale, especificando quais são
 
 * Criação de Power BI com base de dados que relacional 
 
-* Criaçao da documentação das atividades desenvolvidas na sprint-1
+* Criaçao da documentação das atividades desenvolvidas na Sprint 1
 
-* Criação da documentação das atividades da sprint-2
+* Criação da documentação das atividades da Sprint 2
 
 * Aprimorar análise SWOT
  
-* Criação do Kanban sprint-2-
+* Criação do Kanban Sprint 2
+
