@@ -1,4 +1,4 @@
-
+<img src="https://github.com/MarcosAvanzini/NextStep/blob/main/Imagens/Sprint1.svg" width="1000" height="500"/>
 ## Sprint 4
 Ajustes finais para o término do projeto
 
