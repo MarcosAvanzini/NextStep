@@ -8,4 +8,4 @@ Ajustes finais para o término do projeto
 * Adicionar imagens ao slide
 
 ## 5W2H
-<img src="https://github.com/MarcosAvanzini/NextStep/blob/main/Imagens/Sprint3.svg" width="1920" height="1080"/>
+<img src="https://github.com/MarcosAvanzini/NextStep/blob/main/Imagens/Sprint4.svg" width="1920" height="1080"/>
