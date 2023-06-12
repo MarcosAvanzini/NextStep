@@ -7,6 +7,9 @@ Definir uma cadeia produtiva de um produto e definir os elos da cadeia
 * Melhorar estrutura dos dados relacional do Power BI
 * Definir os elos da cadeia produtiva pelo SH4
 * Visita na Nestlé
+## 5W2H
+<img src="https://github.com/MarcosAvanzini/NextStep/blob/main/Imagens/Sprint3.svg" width="1920" height="1080"/>
+
 
 ## Metas para Sprint 4
 * Ajustar Analise SWOT
