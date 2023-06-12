@@ -1,4 +1,4 @@
-<img src="https://github.com/MarcosAvanzini/NextStep/blob/main/Imagens/Sprint1.svg" width="1000" height="500"/>
+<img src="https://github.com/MarcosAvanzini/NextStep/blob/main/Imagens/Pontos 2.svg" width="1000" height="500"/>
 ## Sprint 2
 Pesquisar Companias e produtos da RMVale, especificando e detalhando cada produto da cadeia 
 
