@@ -14,7 +14,7 @@
 
 * Thayssa Andrade Santos (Dev Team) [Linkedin](https://www.linkedin.com/in/thayssa-andrade-531a20200/)
  
-* Victor Lopes Teixeira Nogueira (Dev Team) [Linkedin](
+* Victor Lopes Teixeira Nogueira (Dev Team) [Linkedin](https://www.linkedin.com)
 
 ### Focal Point: Projeto Integrador
 * Cliente: Marcus Vinicius do Nascimento
