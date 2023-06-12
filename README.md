@@ -31,6 +31,28 @@
 ## O que é o projeto
 * Mapear e avaliar cadeias produtivas da RMVALE por meio de coleta, tratamento e análise de dados de importação e exportação.
 
+## NextStep Consulting
+A empresa de consultoria Nextstep Consulting oferece serviços de consultoria SEO voltada para projetos maduros que precisem de auxílio externo. Eles projetam e acompanham o desempenho do seu time dentro da proposta de expansão do seu negócio nas buscas. Além disso, eles oferecem alinhamento de metas, análises, insights e sugestões e acompanhamentos de sacadas baseadas em dados.
+
+## Missão
+* Ser reconhecida como a empresa de consultoria mais confiável e eficiente em ajudar empresas a dar o próximo passo em sua jornada de crescimento.
+
+## Visão 
+* Fornecer serviços de consultoria personalizados e de qualidade que ajudem nossos clientes a alcançar seus objetivos de negócios, identificar oportunidades e enfrentar desafios, sempre com foco na excelência e na ética profissional.
+
+
+## Valores
+
+* Excelência: Buscamos sempre a excelência em tudo o que fazemos, desde o atendimento ao cliente até a entrega final de projetos, utilizando metodologias e tecnologias atualizadas para garantir a qualidade dos nossos serviços.
+
+* Integridade: Agimos com integridade e ética em todas as nossas interações com clientes, parceiros e colaboradores, cultivando relações baseadas na transparência e na confiança mútua.
+
+* Inovação: Estamos sempre em busca de soluções inovadoras que possam agregar valor aos nossos clientes, ajudando-os a se adaptar às mudanças do mercado e a se destacar em seus setores de atuação.
+
+* Colaboração: Valorizamos a colaboração e o trabalho em equipe, buscando sempre ouvir e compreender as necessidades dos nossos clientes para oferecer soluções personalizadas e eficientes.
+
+* Responsabilidade Social: Atuamos de forma responsável e consciente em relação ao meio ambiente e à sociedade, buscando sempre contribuir para um mundo mais justo e sustentável.
+
 ## Benefícios 
 * Identificação das principais cadeias produtivas da RMVALE
 * Identificação dos principais produtos importados e exportados
