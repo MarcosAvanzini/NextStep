@@ -62,6 +62,8 @@ A empresa de consultoria Nextstep Consulting oferece serviços de consultoria vo
 * Análise e diagnóstico de potencial das cadeias produtivas em função da análise dos dados dispostos no dashboard
 
 ## Solução
+* Análise da Cadeia
+![Sequence-01_1](https://github.com/MarcosAvanzini/NextStep/assets/70284253/f713fc3b-0b2d-418e-80bb-03555486cb83)
 
 
 
