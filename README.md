@@ -1,4 +1,4 @@
-<img src="https://github.com/VictorNogueiraSCCP/NextStep/blob/main/imagem/NextStepLogo.svg" width="1000" height="600"/>
+![Gif](https://github.com/MarcosAvanzini/NextStep/assets/70284253/250e887e-9c7f-47ec-ac83-c4dd1efa4242)
 
 
 ## Time de Desenvolvimento
@@ -60,6 +60,10 @@ A empresa de consultoria Nextstep Consulting oferece serviços de consultoria vo
 * Aplicativo em Power Apps que permita resumir os dados de exportação e importação de cada município
 * Dashboard que permita avaliar a evolução das importações e exportações da RMVALE
 * Análise e diagnóstico de potencial das cadeias produtivas em função da análise dos dados dispostos no dashboard
+
+## Solução
+
+
 
 ## Cronograma de Entregas
 
