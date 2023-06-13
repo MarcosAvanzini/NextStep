@@ -65,6 +65,14 @@ A empresa de consultoria Nextstep Consulting oferece serviços de consultoria vo
 * Análise da Cadeia
 ![Sequence-01_1](https://github.com/MarcosAvanzini/NextStep/assets/70284253/f713fc3b-0b2d-418e-80bb-03555486cb83)
 
+* Principais Polos Geradores de Demanda
+![Polos](https://github.com/MarcosAvanzini/NextStep/assets/70284253/063cec39-7593-4f84-b219-701da300719b)
+
+* Principais vias utilizadas
+![Vias](https://github.com/MarcosAvanzini/NextStep/assets/70284253/a3e42806-418c-4e00-b8f2-31eac5a8f739)
+
+* Importações e Exportações
+![Imp-e-Exp](https://github.com/MarcosAvanzini/NextStep/assets/70284253/2d1fcf8e-0391-49e1-a6aa-abc05c7912dc)
 
 
 ## Cronograma de Entregas
