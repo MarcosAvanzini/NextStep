@@ -4,7 +4,7 @@
 ## Time de Desenvolvimento
 * Ana Carolina Fabricio Ribeiro (Dev team) [Linkedin](https://www.linkedin.com/in/ana-carolina-fabr%C3%ADcio-ribeiro-976154207/)
 
-* Ana Julia do Coito Brandão (Dev team) [Linkedin](https://www.linkedin.com/in/ana-j%C3%BAlia-couto-brand%C3%A3o-60a78b20b/)
+* Ana Julia do Couto Brandão (Dev team) [Linkedin](https://www.linkedin.com/in/ana-j%C3%BAlia-couto-brand%C3%A3o-60a78b20b/)
 
 * Hellen de Sousa Santos Carmo (Dev Team) [Linkedin](https://www.linkedin.com/in/hellen-carmo-26717b27b/)
 
