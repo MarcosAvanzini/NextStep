@@ -20,10 +20,26 @@
 * Cliente: Marcus Vinicius do Nascimento
 * Prof: Jose Jaetis Rosario
 
+
+
 ## Índice
+* Metodologia Utilizada
 * O que é a RMVale
 * O que é o Projeto
+* NextStep Consulting
 * Benefícios
+* Solução
+* Cronograma
+
+## Metodologia Utilizada
+
+Metodologia ágil é uma forma de conduzir projetos que busca dar maior rapidez, flexibilidade e qualidade aos processos e aos resultados. Ela surgiu como uma alternativa aos métodos tradicionais de desenvolvimento de software, que eram considerados burocráticos, lentos e inflexíveis. A metodologia ágil se baseia em quatro valores fundamentais1:
+
+* Indivíduos e interações mais que processos e ferramentas
+* Software em funcionamento mais que documentação abrangente
+* Colaboração com o cliente mais que negociação de contratos
+* Responder a mudanças mais que seguir um plano
+   
 
 ## O que é o RMVale?
 * A Região Metropolitana do Vale do Paraíba e Litoral Norte (RMVALE-LN) foi criada pela Lei Complementar 1.166, de 9 de janeiro de 2012, como um instrumento do Estado que permite a união de governo, prefeituras, iniciativa privada e sociedade civil organizada para trabalhar na solução de problemas que os municípios têm em comum: segurança, moradia, mobilidade, saneamento, saúde, habitação, educação, entre outros.
