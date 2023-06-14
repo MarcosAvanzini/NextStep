@@ -62,15 +62,15 @@ A empresa de consultoria Nextstep Consulting oferece serviços de consultoria vo
 
 ## Valores
 
-* Excelência: Buscamos sempre a excelência em tudo o que fazemos, desde o atendimento ao cliente até a entrega final de projetos, utilizando metodologias e tecnologias atualizadas para garantir a qualidade dos nossos serviços.
+* **Excelência**: Buscamos sempre a excelência em tudo o que fazemos, desde o atendimento ao cliente até a entrega final de projetos, utilizando metodologias e tecnologias atualizadas para garantir a qualidade dos nossos serviços.
 
-* Integridade: Agimos com integridade e ética em todas as nossas interações com clientes, parceiros e colaboradores, cultivando relações baseadas na transparência e na confiança mútua.
+* **Integridade**: Agimos com integridade e ética em todas as nossas interações com clientes, parceiros e colaboradores, cultivando relações baseadas na transparência e na confiança mútua.
 
-* Inovação: Estamos sempre em busca de soluções inovadoras que possam agregar valor aos nossos clientes, ajudando-os a se adaptar às mudanças do mercado e a se destacar em seus setores de atuação.
+* **Inovação**: Estamos sempre em busca de soluções inovadoras que possam agregar valor aos nossos clientes, ajudando-os a se adaptar às mudanças do mercado e a se destacar em seus setores de atuação.
 
-* Colaboração: Valorizamos a colaboração e o trabalho em equipe, buscando sempre ouvir e compreender as necessidades dos nossos clientes para oferecer soluções personalizadas e eficientes.
+* **Colaboração**: Valorizamos a colaboração e o trabalho em equipe, buscando sempre ouvir e compreender as necessidades dos nossos clientes para oferecer soluções personalizadas e eficientes.
 
-* Responsabilidade Social: Atuamos de forma responsável e consciente em relação ao meio ambiente e à sociedade, buscando sempre contribuir para um mundo mais justo e sustentável.
+* **Responsabilidade Social**: Atuamos de forma responsável e consciente em relação ao meio ambiente e à sociedade, buscando sempre contribuir para um mundo mais justo e sustentável.
 
 ## Benefícios 
 * Identificação das principais cadeias produtivas da RMVALE
